@@ -1,5 +1,8 @@
 ## Olá, eu me chamo Nycolas Davi
 
+No cerne da minha experiência profissional, destaco meu papel como Assistente Administrativo na Mizu Cimentos, onde aprimorei habilidades cruciais como comunicação escrita e administração de sistemas operacionais. A contribuição para a equipe e o desenvolvimento de processos internos representam a aplicação prática da minha formação em Tecnologia da Informação pela Universidade Tiradentes, prevista para conclusão em dezembro de 2027.
+
+
 - 🔭 Hoje eu trabalho com front-end
 - 🌱 Estudando Python
 - ⚡ Fun fact: Gosto de conhecer novas pessoas.
